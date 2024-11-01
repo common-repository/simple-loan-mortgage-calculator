@@ -1,0 +1,49 @@
+.simplelmc-container{
+    font-weight:300;
+    max-width:500px;
+    margin:0 auto;
+}
+
+.simplelmc-container h2{
+    margin: 40px 0;
+}
+
+.simplelmc-container .input-area{
+    max-width:70%;
+    margin:0 auto;
+}
+
+.simplelmc-container label{
+    margin-top:20px;
+}
+
+.simplelmc-container #calculate{
+    margin: 25px auto;
+    display:block;
+}
+
+.simplelmc-container select{
+    max-width:90px;
+    padding-top: 0.7em;
+    padding-bottom: 0.7em;
+    height: 100% !important;
+}
+
+.simplelmc-container .card{
+    max-width:70%;
+    margin:0 auto;
+    margin:20px auto;
+    display:none;
+}
+.simplelmc-container .card-img-top{
+    width:100%;
+    height:auto;
+}
+
+.simplelmc-container #highchart{
+    width:98%;
+}
+
+.simplelmc-container .custom-chart.hidden {
+    display: none !important;
+}
